@@ -1,0 +1,11 @@
+step,method,drug,rmse,pearson_r
+1. composition,mean-signature NNLS,,0.041,0.948
+1. composition,cell-level NNLS (CLIMB-style),,0.031,0.969
+2. drug survival per type,EM on true proportions,drug A (hits stem-like),0.028,0.995
+2. drug survival per type,EM on true proportions,drug B (hits monocytic),0.05,0.983
+2. drug survival per type,EM on true proportions,drug C (broad cytotoxic),0.089,0.391
+2. drug survival per type,EM on true proportions,drug D (hits erythroid),0.056,0.983
+2. drug survival per type,EM on cell-level NNLS (CLIMB-style),drug A (hits stem-like),0.027,0.996
+2. drug survival per type,EM on cell-level NNLS (CLIMB-style),drug B (hits monocytic),0.053,0.981
+2. drug survival per type,EM on cell-level NNLS (CLIMB-style),drug C (broad cytotoxic),0.091,0.377
+2. drug survival per type,EM on cell-level NNLS (CLIMB-style),drug D (hits erythroid),0.066,0.979
