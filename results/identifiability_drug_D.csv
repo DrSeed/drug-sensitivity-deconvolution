@@ -1,0 +1,7 @@
+cell_type,mean_share,ci_width_drug_D
+stem-like,0.129,0.128
+progenitor,0.301,0.116
+monocytic,0.243,0.096
+granulocytic,0.159,0.157
+erythroid,0.045,0.252
+T cell,0.123,0.185
