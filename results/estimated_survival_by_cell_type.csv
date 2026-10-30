@@ -1,0 +1,5 @@
+,stem-like,progenitor,monocytic,granulocytic,erythroid,T cell
+drug A (hits stem-like),0.152,0.813,0.899,0.816,0.904,0.977
+drug B (hits monocytic),0.771,0.82,0.243,0.671,0.874,1.0
+drug C (broad cytotoxic),0.478,0.32,0.383,0.519,0.566,0.455
+drug D (hits erythroid),0.949,0.879,0.895,0.847,0.181,0.822
